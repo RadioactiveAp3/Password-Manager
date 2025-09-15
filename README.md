@@ -1,6 +1,6 @@
 # 🔐 Password Manager
 
-A secure, local password manager with AES-256 encryption built in Python with a modern GUI.
+A secure, local password manager with AES-256 encryption built in Python with GUI.
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
